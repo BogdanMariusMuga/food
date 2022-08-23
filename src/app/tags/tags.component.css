@@ -1,0 +1,14 @@
+div{
+  display: flex;
+  flex-wrap: wrap;
+}
+div a{
+  background-color: rgb(175, 150, 168);
+  padding: .3rem 1rem;
+  margin: .2rem .15rem;
+  border-radius: 10rem;
+  color: black;
+}
+div a:hover{
+  color: rgb(138, 205, 13);
+}
