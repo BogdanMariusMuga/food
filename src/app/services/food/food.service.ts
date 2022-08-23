@@ -78,8 +78,18 @@ export class FoodService {
       imageUrl: 'assets/food1.jpg',
       cookTime: '40-45',
       origins: ['Italy','Italy','Italy','Italy']
-  }]
+  },
+  {id: 6,
+  price: 5.25,
+  name: 'paste',
+  favorite: false,
+  star: 4,
+  tags: ['paste', 'Lunch'],
+  imageUrl: 'assets/food1.jpg',
+  cookTime: '40-45',
+  origins: ['Italy','Italy','Italy','Italy']
+}]
   }
-  
+
 }
 
