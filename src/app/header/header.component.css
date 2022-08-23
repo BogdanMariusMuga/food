@@ -1,14 +1,14 @@
 header{
-  background-color: white;
+  background-image: url('/assets/redBackground.jpg');
   padding: 0;
   border-bottom: 1px solid red;
 }
 a{
-  color: #af1313;
+  color: white;
 }
 a:hover{
   background-color: #e72929;
-  color: white;
+  color: black;
 }
 .container{
   margin: auto;
