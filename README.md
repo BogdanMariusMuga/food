@@ -1,5 +1,5 @@
 Steps to run the application:
-If you have angular installed, you can skip to step 3.
+If you have angular(and implicit node.js) installed, you can skip to step 3.
 1. Go on the site "https://nodejs.org/en/" download the latest feature and install it(Next->Next->Finish).
 2. Run cmd(Command Prompt) from your application and type "npm install -g @angular/cli"
 3. Run cmd(Command Prompt) in the project(current project) by clicking on the file path and type "cmd".
