@@ -12,8 +12,8 @@ import { Cart } from '../shared/models/cart';
 export class CartPageComponent implements OnInit {
   cart!: Cart;
   constructor(private cartService: CartService, private foodService:FoodService) {
-    let foods = foodService.getAll();
-    cartService.addToCart(foods[1]);
+    //let foods = foodService.getAll();
+    //cartService.addToCart(foods[0]);
     this.setCart();
   }
 

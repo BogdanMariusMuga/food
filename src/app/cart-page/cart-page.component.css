@@ -37,6 +37,10 @@ ul li div{
 ul li div:not(:first-child){
   flex-basis: 13%;
 }
+ul li .perItem{
+  font-size: .8rem;
+  font-weight: 700;
+}
 ul li select{
   width: 4rem;
   border: none;
